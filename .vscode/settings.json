@@ -13,5 +13,6 @@
         "titleBar.inactiveBackground": "#ca670299",
         "titleBar.inactiveForeground": "#fbfefb99"
     },
-    "peacock.color": "#ca6702"
+    "peacock.color": "#ca6702",
+    "python.pythonPath": "C:\\Users\\Boborodono\\anaconda3\\envs\\PythonData\\python.exe"
 }
